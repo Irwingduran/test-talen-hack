@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Accountant from '../pages/accountant/Home';
+import Accountant from '../pages/accountant/dashboard/Home';
 import AuthForm from '../pages/auth/AuthForm'
 import OnboardingScreen from '../pages/accountant/onboarding/Home';
 import OnboardingScreenPyme from '../pages/pymes/onboarding/Home';
